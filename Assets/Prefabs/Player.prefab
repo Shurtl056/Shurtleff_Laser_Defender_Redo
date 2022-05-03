@@ -160,3 +160,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84ab2ae53fa8b814a97b3553fe086805, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fltMoveSpeed: 5
+  fltPaddingLeft: 0.5
+  fltPaddingRight: 0.5
+  fltPaddingTop: 5
+  fltPaddingBottom: 2

@@ -240,6 +240,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cfcb2d1cef6c1a44896d8a6d2c4d153b, type: 2}
   - {fileID: 11400000, guid: 226663c575dcf5b4e8a3c0d4890b3930, type: 2}
   flTimeBetweenWaves: 0
+  blIsLooping: 1
 --- !u!4 &144240956
 Transform:
   m_ObjectHideFlags: 0

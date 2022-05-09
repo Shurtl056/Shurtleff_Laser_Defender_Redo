@@ -532,7 +532,7 @@ MonoBehaviour:
   shootingClip: {fileID: 8300000, guid: 673494c8bc797084ebd56ddf28114bff, type: 3}
   flShootingVolume: 0.4
   damageClip: {fileID: 8300000, guid: 4d5e1faa97b121e498f0cd5a7b14a6b6, type: 3}
-  flDamageVolume: 1
+  flDamageVolume: 0.5
 --- !u!4 &1517532257
 Transform:
   m_ObjectHideFlags: 0

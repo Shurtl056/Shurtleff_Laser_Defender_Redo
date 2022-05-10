@@ -1031,6 +1031,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7223000904448048808, guid: 446bbc9dc9bc6fd4f9d7cfe74443daad, type: 3}
+      propertyPath: intHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1099774308536986376, guid: 446bbc9dc9bc6fd4f9d7cfe74443daad, type: 3}
+      propertyPath: fltPaddingTop
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 3156600246718918866, guid: 446bbc9dc9bc6fd4f9d7cfe74443daad, type: 3}
       propertyPath: m_Name
       value: Player

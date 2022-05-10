@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 253c23f1ff78c4346a069d6ba9c34e9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d83525811e4858146b0952c65c70515c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,7 +100,7 @@ GameObject:
   - component: {fileID: 2993761184542916827}
   - component: {fileID: -8142544946428183175}
   m_Layer: 7
-  m_Name: Enemy 0
+  m_Name: Enemy 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -168,9 +168,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.011982322, y: -0.04792899}
+  m_Offset: {x: -0.0054013133, y: -0.04792899}
   serializedVersion: 2
-  m_Radius: 0.3538164
+  m_Radius: 0.39988345
 --- !u!114 &6829763622296944270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -184,8 +184,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blIsPlayer: 0
-  intHealth: 25
-  intScore: 30
+  intHealth: 50
+  intScore: 65
   hitEffect: {fileID: 2452718182432863, guid: ac43b22d74c8f7e4c9a84fc40dd09577, type: 3}
   blApplyCameraShake: 0
 --- !u!114 &2993761184542916827
